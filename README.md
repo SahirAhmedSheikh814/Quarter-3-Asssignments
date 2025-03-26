@@ -81,6 +81,7 @@ I have successfully completed all the assignments for **Project 4**. Below are t
 - [Project 3: Guess the Number Game (user)](https://colab.research.google.com/drive/1T-iWA5jQoZIP_y_f5XaRBDKtuc7jL9lV?usp=sharing)  
 - [Project 4: Rock, Paper, Scissors Python Project](https://colab.research.google.com/drive/1oT2k60dH4f-aRrgRnQBCySVuaFMkWI3b?usp=sharing)  
 - Project 5: Hangman Python Project - This project was created using the Cursor Code Editor.  (Code inside their respected files)
-- [Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1MWe9hDmNvI4HX031OfmQTemW6UsHXI0X?usp=sharing)  
+- [Project 6: Countdown Timer Python Project](https://colab.research.google.com/drive/1MWe9hDmNvI4HX031OfmQTemW6UsHXI0X?usp=sharing)
+- Project 7: Password Generator Python Project - This project was created using the Cursor Code Editor.  (Code inside their respected files)  
 
 ---
